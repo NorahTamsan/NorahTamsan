@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Norah Tamsan
+- 👀 I’m interested in data science , app development.
+- 🌱 I’m currently learning web development.
+- 📫 you can contact with me via E-mail:NorahTamsan@gmail.com
